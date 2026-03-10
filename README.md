@@ -5,11 +5,10 @@
   <h3>B.Sc. IT Student | Full-Stack Web Developer | Content Creator</h3>
 
   <p align="center">
-    <a href="prabhat-portfolio-website.vercel.app"><img src="https://img.shields.io/badge/Portfolio-escadev.me-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+    <a href="prabhat-portfolio-website.vercel.app" alt="Portfolio"></a>
   </p>
 </div>
 
----
 
 # 💫 About Me:
 
@@ -89,8 +88,6 @@ Web Development • UI/UX Engineering • Cybersecurity • Reverse Engineering 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prabhat._pr)
 [![Linkedin](https://img.shields.io/badge/Linkedin-%23E4405F.svg?logo=Linkedin&logoColor=white)](www.linkedin.com/in/prabhat-kumar-b86bb0353) 
-
-# 📊 GitHub Stats
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=prabhatpr1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
