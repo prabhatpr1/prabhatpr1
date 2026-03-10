@@ -99,20 +99,20 @@ Web Development • UI/UX Engineering • Cybersecurity • Reverse Engineering 
 
 # 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhatpr1&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=prabhatpr1&theme=dark&hide_border=false" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=prabhatpr1&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatpr1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+<br><br>
 
----
-[![](https://visitcount.itsvg.in/api?id=prabhatpr1&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://nirzak-streak-stats.vercel.app/?user=prabhatpr1&theme=dark&hide_border=false" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatpr1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+</div>
+
 
 <div align="center">
   <i>Let's build something awesome together. (Design + Code = ❤️) </i>
