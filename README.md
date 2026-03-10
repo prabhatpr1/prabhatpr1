@@ -5,7 +5,7 @@
   <h3>B.Sc. IT Student | Full-Stack Web Developer | Content Creator</h3>
 
   <p align="center">
-    <a href="prabhat-portfolio-website.vercel.app" alt="Portfolio"></a>
+    ![Portfolio](https://prabhat-portfolio-website.vercel.app/.svg?style=for-the-badge&logo=vercel&logoColor=white)
   </p>
 </div>
 
