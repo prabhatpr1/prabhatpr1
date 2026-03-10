@@ -20,14 +20,14 @@ I'm an IT undergraduate passionate about crafting sleek digital experiences and 
 * 💻 Focused on **Full-Stack Web Development**, building responsive and modern web apps using **HTML, CSS, JavaScript, React.js, and Tailwind CSS**.
 * 🎨 Passionate about creating **UI/UX focused landing pages, small business websites, and clean modern interfaces**.
 * ⚡ Improving **website performance, responsive design, and clean code architecture**.
-* 🌱 Strengthening programming foundations with **C, C++, C#, and basic Node.js backend concepts**.
+* 🌱 Strengthening programming foundations with C , python and basic Node.js backend concepts**.
 * 🧠 Currently learning **React Hooks, State Management, Git, GitHub, and open-source collaboration**.
 * 🤝 Open to collaborating on **frontend projects, open-source UI components, startup ideas, and real-world web products**.
 * 🔧 Exploring **API integration, authentication systems, SEO optimization, and scalable project architecture**.
-* ⚡ Using **AI-powered IDEs like Cursor, Orchids, and Antigravity** to speed up development and problem-solving.
+* ⚡ Using **AI-powered IDEs like Cursor, Orchids, and Antigravity**, Google Gemini, to speed up development and problem-solving.
 * 📹 Sharing **tech tutorials, coding tips, development journeys, and gaming content** on YouTube and other platforms.
 * 🚀 Love turning **simple ideas into beautiful and functional user interfaces** (Design + Code = ❤️).
-* 🎯 Future goals: **Master DSA, prepare for GATE, contribute to impactful open-source projects, and build real-world tech products**.
+* 🎯 Future goals: **Master DSA, contribute to impactful open-source projects, and build real-world tech products**.
 
 ---
 
@@ -87,16 +87,18 @@ Web Development • UI/UX Engineering • Cybersecurity • Reverse Engineering 
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prabhat._pr) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prabhat._pr)
+[![Linkedin](https://img.shields.io/badge/Linkedin-%23E4405F.svg?logo=Linkedin&logoColor=white)](www.linkedin.com/in/prabhat-kumar-b86bb0353) 
 
 # 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhatpr1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatpr1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=prabhatpr1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=prabhatpr1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatpr1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=prabhatpr1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
   <i>Let's build something awesome together. (Design + Code = ❤️) </i>
